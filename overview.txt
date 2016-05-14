@@ -1,0 +1,167 @@
+https://www.upwork.com/freelancers/~0128d8938152fa53f7
+
+
+
+------------------------johnny----------------------------
+Hello,
+
+My programming style is clean and straight-forward, with equal emphasis on quality, functionality and maintainability.
+
+- Programming Languages
+ PHP, Python, C++, C#, Java, Coldfusion, Assembly, Visual Basic, Javascript
+
+- Web
+ HTML, Javascript, VBScript, ASP.NET, MVC, PHP, XML, JSON
+
+- RESTful API, Web API, Web Service development
+
+- API & System Integration
+ Google, Amazon, Ebay, Alexa, Bing, Shopify, AliExpress, Baidu, LinkedIn, Twitter, Shipstation, Clickfunnel, Magento, oAuth, etc
+
+- ERP, CRM
+ Netsuite, Zoho CRM
+
+- Payment Integration
+ Paypal, Stripe, Authorize.net, Braintree, Bitcoin
+
+- Database & SQL
+ MySQL, MS-SQL, MongoDB, PostgreSQL, SQL optimization, Stored Procedure, Indexing, Trigger, etc
+
+- Version Control System
+ Git, SVN, Bitbucket
+
+- Extension
+Magento, Chrome, FireFox, IE, OCX & DLL, APP Extension
+
+- Relative Skills
+* CSS frameworks: Compass, Susy, Bootstrap, Zurb Foundation
+* Javascript frameworks: AngularJS, jQuery, Knockout.js, D3.js, Ember.js, Parse.js, Three.js, Leaflet.js, Meteor.js
+* TDD, BDD, Automated Testing: Jasmine, Karma, Protractor, PhantomJS
+* A/B testing: Optimizely
+* CMS: Drupal, Wordpress
+* Node.js, Ruby on Rails
+* Bower, Grunt
+
+
+-----------------------United States------------------
+A veteran in the field of technology with over 30 years of experience as a programmer and 17 years of professional experience as a web development expert. Holds professional certificates from MIT and CompTIA and has a diverse background working for Inc. 500 companies, Fortune 500 companies, small businesses and a number of startup companies.
+
+An expert in PHP, MySQL, Javascript, HTML, CSS as well as Laravel, CakePHP, Codeignitor. As a full stack developer I can help you find your way around any web development project. I can work as a developer on a team, or I can work as a lead developer or senior developer or even as your CTO with my nearly two decades of management experience.
+
+I started programming computers when I was eight years old, and, over the last 30 years, I've realized that I am, well, a programmer. That said, I do have the "people skills" necessary to remain competitive in the world of programming. When needed, I'm a "sit in the corner and program til the wee hours of the morning geek"... otherwise, I'm just a "fun to talk to, easy to get along with normal person".
+
+I have always enjoyed the challenge of creating interactive software. With the birth of the modern Internet, I found a new love in web development and web programming. I face every new piece of code as a fresh new beginning... a chance to do it even better, while, still using "what works" from the past.
+
+My objective, here at UpWork, it to provide potential employers with my expertise in the field of website design, development, and programming. 
+
+https://www.upwork.com/freelancers/~014b75c25d1811f412
+
+
+------------------------branko--------------------------
+Over the last 7 years, I have developed a wide range of websites using PHP, Ruby on Rails, Javascript and MySQL.
+
+PHP skills:
+- PHP5, OOP, MVC
+- WordPress, Magento
+- CodeIgniter, Laravel, Yii, CakePHP, Symfony, Kohana
+
+Frontend skills: 
+- jQuery / JavaScript / AngularJS / Node.js / AJAX / D3.js /  Phonegap / EmberJS / ExtJS / Vue.js
+- HTML / HTML5 / CSS / CSS3 / Bootstrap / Twitter Bootstrap / LESS
+
+Other:
+- Git / Git Workflows / SVN
+- Ubuntu 
+- Bitbucket / Github
+- SQL Optimization, Indexing, Stored Procedure, Web scrapping & crawler
+
+
+----------------------patryk------------------------
+Hello,
+I am an individual freelancer.
+Over the last 8 years, I have developed a wide range of websites using PHP, Python, MVC, OOP, HTML, Javascript and MySQL including sites for startup companies and small businesses.
+
+-Best Skills
+MVC: Codeigniter, Laravel, CakePHP, Symfony, Zend, Yii, Phalcon, Kohana
+CMS: WordPress, Drupal, Magento, Django
+Front End: HTML5, CSS3, LESS, jQuery, Angular.js, Node.js, Backbone.js, Twitter Bootstrap
+DataBase: MySQL, MongoDB, PostgreSQL
+
+I have strong skills in web crawler and web scraping
+I have excellent experience with grabbing data from google, amazon, ebay, bing, alexa, compete, aliexpress, shopify and a lot of different web directories.
+
+Payment Integration: paypal, stripe
+
+Thank you for your consideration.
+
+
+--------------------yang cui----------------
+I'm a certified Magento developer with over 5 years of experience.
+
+My programming style is clean and straight-forward, with equal emphasis on quality, functionality and maintainability.
+
+- Payment Integration 
+Paypal, Stripe, Authorize.net, Braintree, Bitcoin, UPS, USPS
+
+- API & System Integration 
+Google, Amazon, Ebay, Alexa, Bing, Shopify, AliExpress, Baidu, LinkedIn, Twitter, Shipstation, Clickfunnel, Magento, oAuth, etc
+
+
+-------------------nicolas-----------------------
+I am a qualified and passionate Javascript & Php developer who has really a huge experiences and ultra skills.
+
+My skill set covers various Php/Javascript techniques such as Node.js, AngularJS, BackboneJs, Coffeescript, and Magento,wordpress, Symfony, drupal, codeigniter, shopify, etc.
+
+Especially, I have really good skill of javascript technologies such as Node.js, AngularJS and Backbone and also have some good experience of Ruby on Rails. 
+
+If you work with me, I will guarantee productivity and responsibility in any case. 
+
+Skills In: 
+
++ Javascript/jQuery
++ Node.js/Express/Jade
++ AngularJS
++ BackboneJS/Coffeescript/Hamlc
++ Ruby On Rails/Heroku
++ Wordpress/WooCommerce ( Responsive Frontend/Backend)
++ Magento
++ Drupal
++ Codeigniter
++ Shopify
++ TwitterBootstrap/JQueryMobile
+
+
+------------------zlatomir------------------------
+My professional objectives are:
+- continuous learning to write good quality code;
+- learn more about concurrent, generic and functional programming;
+- improve my object oriented design skills;
+- use good quality libraries and frameworks.
+
+Specialties:
+Programming: ASP.NET, C#, Django, Python, MVC3, MVC4, MVC5, Entity Framework, Razor, Telerik, LINQ, C++ (STL, Qt framework), WPF, MVVM, SilverLight, DevExpress
+
+
+
+-----------------anton evers---------------------------
+Hello,
+Over the last 12 years, I have developed a wide range of websites using PHP, Ruby, Ruby on Rails, Javascript, Angular.js, Node.js, Backbone.js and MySQL 
+
+I also have some experience in the following areas: SQL, Ajax, OOP, and software design and testing.
+
+--------------- jacek lasson--------------
+I have worked with information technology and web development for over 15 years.
+I specialize in front end development (HTML, CSS, jQuery) and design.
+
+Proficient In:
+- Javascript, AngularJS, jQuery, Node.js, D3.js, Knockout.js, Backbone.js
+- Bootstrap, Twitter Bootstrap
+- JEET Framework, Zurb Foundation
+- Parallax, Responsive
+
+Relevant Skills:
+- Sever-side Language: PHP, ASP.NET, Ruby
+- Database: MySQL, MS-SQL, Oracle, PostgreSQL, MongoDB
+- Git, BitBucket
+
+If there is anything you need, please don't hesitate to contact me.
